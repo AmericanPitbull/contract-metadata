@@ -4158,7 +4158,7 @@
     "logo": "LMPC (2).png",
     "erc20": false,
     "erc721": false,
-    "BEP20": true,
+    "bep20": true,
     "symbol": "LMPC",
     "decimals": 18
   },
