@@ -4153,6 +4153,15 @@
     "symbol": "XCAD",
     "decimals": 18
   },
+  "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5": {
+    "name": "LampedusaCoin",
+    "logo": "LMPC (2).png",
+    "erc20": false,
+    "erc721": false,
+    "BEP20": true,
+    "symbol": "LMPC",
+    "decimals": 18
+  },
   "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0": {
     "name": "Tellor Tributes",
     "logo": "TRB.svg",
